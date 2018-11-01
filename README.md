@@ -1,0 +1,2 @@
+# plataforma
+scripts plataforma
